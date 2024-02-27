@@ -1,5 +1,4 @@
-# Gorditas-de-nata-en-C-
-Parte de mi serie de "Abecedario" de la programación
+# Lenguaje de programacion C++
 
 El lenguaje de programacion C++ fue creado en 1980 por Bjarne Stroustroup, es un lenguaje de alto nivel pero con mas control que otros lenguajes como python.
 C++ es un lenguaje con syntax similar a C, el "++" hace referencia a que si escribes x++ es lo mismo que escribir x = x + 1, es la siguiente iteracion de C y por lo tanto es mejor, no se habla de C# que es "C++ ++"
@@ -9,10 +8,19 @@ C++ es un lenguaje con syntax similar a C, el "++" hace referencia a que si escr
 La manera mas facil de instalar un compulador de C++, como lo es g++, es instalar minGW, la cosa mas facil es seguir este tutorial de Microsft
 https://code.visualstudio.com/docs/cpp/config-mingw
 
+## Compilacion (en Windows)
+
+1. Entra al directorio del proyecto
+    cd /entrar/a/el/directorio/C++
+2. Compila el codigo
+    g++ hello_gorditas.cpp -o gorditas
+3. Corre el programa
+    gorditas.exe
 
 
+## Ingredientes
 -  8 Porciones
-### Ingredientes
+
 -   1 1/4 tazas de nata, espesa
 -   3 huevos
 -   1 lata de leche condensada
